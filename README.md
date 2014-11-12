@@ -1,4 +1,4 @@
 Myfirst
 =======
 
-my first repository
+I like :monster trucks: and :good coffee:
